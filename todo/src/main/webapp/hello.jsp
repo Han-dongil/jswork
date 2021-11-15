@@ -4,9 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>hello</title>
 </head>
 <body>
+<<<<<<< HEAD
 hello~~~~~~~~~~~~ㅇㅇ
+=======
+hello~~~~~~~~~~~~ddddd
+>>>>>>> branch 'main' of https://github.com/Han-dongil/jswork.git
 </body>
 </html>
